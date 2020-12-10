@@ -28,7 +28,7 @@ window.onload = function() {
     var dataArray = new Uint8Array(bufferLength);
 
     var WIDTH = canvas.width;
-    var HEIGHT = canvas.height;
+    var HEIGHT = canvas.height*0.25;
 
     var barWidth = (WIDTH / bufferLength) * 2.5;
     var barHeight;
