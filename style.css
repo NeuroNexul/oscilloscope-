@@ -18,6 +18,8 @@
 .hr{
     height:2px;
     width:100%;
+  color:white;
+  background-color:white;
 }
 
 audio {
@@ -27,3 +29,4 @@ audio {
   width: calc(100% - 20px);
   height: 10%;
 }
+body{background:black;}
