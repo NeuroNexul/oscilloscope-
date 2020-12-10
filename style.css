@@ -4,6 +4,7 @@
   left: 10px;
   z-index: 100;
   color:white;
+  font-size: 40px;
 }
 
 #canvas {
@@ -14,10 +15,15 @@
   height: 75%;
   background:black;
 }
+.hr{
+    height:2px;
+    width:100%;
+}
 
 audio {
   position: fixed;
   left: 10px;
   bottom: 10px;
   width: calc(100% - 20px);
+  height: 10%;
 }
