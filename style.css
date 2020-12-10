@@ -28,5 +28,9 @@ audio {
   bottom: 10px;
   width: calc(100% - 20px);
   height: 10%;
+  font-size:30px;
 }
+*{
+  background-color :black; 
+  }
 body{background:black;}
